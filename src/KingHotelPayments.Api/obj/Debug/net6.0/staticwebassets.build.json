@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H7usWbQGcPQA1XHXXVGfzmPhWJGODhll8Xm+bJfyP1E=",
+  "Source": "KingHotelPayments.Api",
+  "BasePath": "_content/KingHotelPayments.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
